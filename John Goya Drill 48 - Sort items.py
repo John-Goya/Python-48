@@ -30,4 +30,3 @@ def sortNumbers(numberlist2):
 numberlist2 = [89, 23, 33, 45, 10, 12, 45, 45, 45]
 sortNumbers(numberlist2)
 print(numberlist2)
-
